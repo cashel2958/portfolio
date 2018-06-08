@@ -1,0 +1,51 @@
+body {
+	margin: 0px;
+}
+.hero {
+	background-image: url("../images/daylightforestt.jpg.jpg");
+	background-size: cover; 
+	padding: 101px 0px;	
+}
+.hero-content, .footer-content {
+	text-align: center; 	
+}
+
+.hero-content {
+	color: #FFA631;
+}
+.hero-text {
+	margin-bottom: 5px;
+}
+
+.hero-heading {
+	margin-top: -5px; 
+}
+
+.intro-container, .location-container, .dream-container, .hobby-container, .tv-container {
+	max-width: 525px; 
+	margin: 0 auto;
+	font-family: arial; 
+}
+
+
+.footer-content {
+	padding: 25px; 
+	background-color: #BDC3C7
+}
+
+.footer-content p {
+	font-family: tahoma;
+}
+
+ul {
+	padding: 0px; 
+}
+.social > li {
+	display: inline; 
+}
+
+.social a {
+	text-decoration: none; 
+	color: #6C7A89; 
+	font-family: verdana; 
+}
